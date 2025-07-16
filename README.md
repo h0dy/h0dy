@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there👋, I'm Hasan
+Or sometimes I go by hody!, I'm a software developer and programmer based in Saudi Arabia, dedicated to learning, exploring new technologies, and continuously trying to improve my skills
 
-<!--
-**h0dy/h0dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently improving my back-end skills with Golang through [boot.dev](https://www.boot.dev/u/hody)
 
-Here are some ideas to get you started:
+## Skills
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,python,ts,c,go)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap&perline=4)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,sqlite&perline=3)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vscode,postman)
