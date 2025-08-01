@@ -1,7 +1,7 @@
 ## Hi there👋, I'm Hasan
 Or sometimes I go by hody!, I'm a software developer and programmer based in Saudi Arabia, dedicated to learning, exploring new technologies, and continuously trying to improve my skills
 
-I'm currently improving my back-end skills with Golang through [boot.dev](https://www.boot.dev/u/hody)
+I'm currently learning infrastructure through [boot.dev](https://www.boot.dev/u/hody)
 
 ## Skills
 #### Programming Languages
