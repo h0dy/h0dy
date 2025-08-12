@@ -11,7 +11,7 @@ I'm currently learning infrastructure through [boot.dev](https://www.boot.dev/u/
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,express,nodejs,postgres,mongodb,sqlite&perline=4)
 
 #### Infrastructure / DevOps
-![Backend Technologies](https://skillicons.dev/icons?i=aws)
+![Backend Technologies](https://skillicons.dev/icons?i=aws,docker)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,vscode,postman,wsl)
