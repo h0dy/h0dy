@@ -8,7 +8,7 @@ I'm currently learning infrastructure through [boot.dev](https://www.boot.dev/u/
 ![Languages](https://skillicons.dev/icons?i=js,python,ts,c,go)
 
 #### Tech Stack
-![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nodejs,postgres,mongodb,sqlite&perline=4)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,express,nodejs,postgres,mongodb,sqlite&perline=4)
 
 #### Infrastructure / DevOps
 ![Backend Technologies](https://skillicons.dev/icons?i=aws)
