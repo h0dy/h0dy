@@ -2,7 +2,7 @@
 Or sometimes I go by hody, I'm a software developer and programmer based in Saudi Arabia, dedicated to learning, exploring new technologies, and continuously trying to improve my skills
 
 ### learning
-![Learning](https://skillicons.dev/icons?i=rabbitmq)
+![Learning](https://skillicons.dev/icons?i=rabbitmq,vim,neovim)
 
 ## Skills
 #### Programming Languages
