@@ -15,4 +15,4 @@ Or sometimes I go by hody, I'm a software developer and programmer based in Saud
 ![Infrastructure / DevOps](https://skillicons.dev/icons?i=aws,docker,githubactions)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vscode,postman)
+![Others](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)
