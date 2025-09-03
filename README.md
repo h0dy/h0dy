@@ -1,7 +1,7 @@
 ## Hi there👋, I'm Hasan
-Or sometimes I go by hody, I'm a software developer and programmer based in Saudi Arabia, dedicated to learning, exploring new technologies, and continuously trying to improve my skills
+Or sometimes I go by hody, I'm a software developer and programmer based in Saudi Arabia, who is always open to learning and exploring new technologies
 
-### learning
+### currently learning
 ![Learning](https://skillicons.dev/icons?i=kubernetes,rabbitmq,vim,neovim)
 
 ## Skills
