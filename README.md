@@ -40,6 +40,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+  <a href="https://orm.drizzle.team/" target="_blank"><img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" /></a>
 </p>
 
 <h4>Infrastructure / DevOps</h4>
