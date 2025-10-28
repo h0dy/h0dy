@@ -9,9 +9,7 @@
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  </a>
+
   <a href="https://neovim.io/" target="_blank">
     <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&style=for-the-badge&logoColor=white" alt="Neovim" />
   </a>
@@ -38,6 +36,7 @@
   <br />
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
