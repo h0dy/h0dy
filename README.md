@@ -4,17 +4,6 @@
   who is always open to learning and exploring new technologies
 </p>
 
-<h2>Currently Learning</h3>
-<p>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  </a>
-
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&style=for-the-badge&logoColor=white" alt="Neovim" />
-  </a>
-</p>
-
 <h2>Skills</h2>
 
 <h3>Programming Languages</h4>
@@ -49,6 +38,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" alt="GitHub Actions" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
 </p>
 
 <h3>Other tools & Technologies</h4>
@@ -59,4 +49,5 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
+  <a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&style=for-the-badge&logoColor=white" alt="Neovim" /></a>
 </p>
